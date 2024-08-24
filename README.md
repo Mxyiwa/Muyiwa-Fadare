@@ -84,10 +84,10 @@ My goal is to be able to develop my knowledge and skills that will enable me to 
 
 ## Certifications
 <div>
-    <img src="https://img.shields.io/badge/-Splunk%20Core%20Certified%20Power%20User-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-EA3D2F?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AWS%20Certified%20Cloud%20Practitioner-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft%20Azure%20Fundamentals-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+    <a href="https://www.credly.com/badges/252e08eb-e277-461a-a99c-eec75f1df862/public_url"><img src="https://img.shields.io/badge/-Splunk%20Core%20Certified%20Power%20User-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <a href="https://www.credly.com/badges/87a090ad-ce91-4636-8dcb-bcce43b3e422/public_url"><img src="https://img.shields.io/badge/-CompTIA%20Security%2B-EA3D2F?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <a href="https://www.credly.com/badges/092ae4fd-ef2f-483d-a494-07fcdfb3b639/public_url"><img src="https://img.shields.io/badge/-AWS%20Certified%20Cloud%20Practitioner-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+    <a href="https://learn.microsoft.com/api/credentials/share/en-us/OluwamuyiwaFadare-7151/4C23CFC52C3C0B4B?sharingId=C510F2996ADAD8CD"><img src="https://img.shields.io/badge/-Microsoft%20Azure%20Fundamentals-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
     <img src="https://img.shields.io/badge/-Oracle%20Certified%20Foundations%20Associate-F80000?&style=for-the-badge&logo=Oracle&logoColor=white" />
 </div>
 
