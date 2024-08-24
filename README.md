@@ -10,7 +10,7 @@ My goal is to be able to develop my knowledge and skills that will enable me to 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis (Azure Sentinel)         | <a href="https://medium.com/@mxyiwa/azure-sentinel-siem-lab-to-map-live-cyber-attacks-d74c2426d59b">Sentinel SIEM Lab</a>|
+| SIEM Implementation and Log Analysis (Azure Sentinel)         | <a href="https://medium.com/@mxyiwa/azure-sentinel-siem-lab-to-map-live-cyber-attacks-d74c2426d59b">SIEM Lab</a>|
 | Malware Analysis and Detection | <a href="https://medium.com/@mxyiwa/escaperoom-blue-team-challenge-analyzing-pcaps-with-wireshark-648d6b57a0c4">Detection Lab</a>|
 | Vulnerability Management | <a href="https://medium.com/@mxyiwa/nessus-essentials-vulnerability-management-lab-55a80d26185a">Vulnerability Managementy Lab</a>|
 | Cloud Security (AWS) | <a href="https://medium.com/@mxyiwa/exploiting-aws-flaws-challenge-342e45efe76e">AWS Lab</a>|
@@ -37,6 +37,12 @@ My goal is to be able to develop my knowledge and skills that will enable me to 
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### Vulnerability Management
+<div>
+    <img src="https://img.shields.io/badge/-Nessus-00C176?&style=for-the-badge&logo=Nessus&logoColor=white" />
+
 </div>
 
 ## Certifications
