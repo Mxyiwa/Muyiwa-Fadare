@@ -10,7 +10,7 @@ My goal is to be able to develop my knowledge and skills that will enable me to 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="[https://google.com](https://medium.com/@mxyiwa/azure-sentinel-siem-lab-to-map-live-cyber-attacks-d74c2426d59b)">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://medium.com/@mxyiwa/azure-sentinel-siem-lab-to-map-live-cyber-attacks-d74c2426d59b">Sentinel SIEM Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
