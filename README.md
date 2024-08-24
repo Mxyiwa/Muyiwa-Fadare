@@ -1,24 +1,21 @@
 # Hello, I'm Muyiwa
 <a href="https://www.linkedin.com/in/muyiwa-fadare/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a cybersecurity professional with 3+ years of experience in monitoring, detecting, and responding to cybersecurity threats and incidents. I am experienced in using SIEM tools, such as Splunk, IBM QRadar, etc, conducting security assessments and implementing mitigation strategies. I have a strong knowledge of threat analysis, intrusion detection systems, and incident response protocols.
+I am a cybersecurity professional with 3+ years of experience in monitoring, detecting, and responding to cybersecurity threats and incidents. I am experienced in using SIEM tools, such as Splunk, IBM QRadar, etc, conducting security assessments and implementing mitigation strategies. I am also experienced in threat analysis, intrusion detection systems, and incident response protocols.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My goal is to be able to develop my knowledge and skills that will enable me to be very competent and effective at securing my organisations' security infrastructure as well as make me a valuable member and contributor to my team, and ultimately my organisation.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+<! | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab| >
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
