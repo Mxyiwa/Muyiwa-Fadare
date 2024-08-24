@@ -10,9 +10,10 @@ My goal is to be able to develop my knowledge and skills that will enable me to 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://medium.com/@mxyiwa/azure-sentinel-siem-lab-to-map-live-cyber-attacks-d74c2426d59b">Sentinel SIEM Lab</a>|
+| SIEM Implementation and Log Analysis (Azure Sentinel)         | <a href="https://medium.com/@mxyiwa/azure-sentinel-siem-lab-to-map-live-cyber-attacks-d74c2426d59b">Sentinel SIEM Lab</a>|
 | Malware Analysis and Detection | <a href="https://medium.com/@mxyiwa/escaperoom-blue-team-challenge-analyzing-pcaps-with-wireshark-648d6b57a0c4">Detection Lab</a>|
 | Vulnerability Management | <a href="https://medium.com/@mxyiwa/nessus-essentials-vulnerability-management-lab-55a80d26185a">Vulnerability Managementy Lab</a>|
+| Cloud Security (AWS) | <a href="https://medium.com/@mxyiwa/exploiting-aws-flaws-challenge-342e45efe76e">AWS Lab</a>|
 
 
 ## Tools
