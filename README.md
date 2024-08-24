@@ -16,7 +16,7 @@ My goal is to be able to develop my knowledge and skills that will enable me to 
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Skills                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis (Azure Sentinel)         | <a href="https://medium.com/@mxyiwa/azure-sentinel-siem-lab-to-map-live-cyber-attacks-d74c2426d59b">SIEM Lab</a>|
 | Network Traffic Analysis and Detection | <a href="https://medium.com/@mxyiwa/escaperoom-blue-team-challenge-analyzing-pcaps-with-wireshark-648d6b57a0c4">Detection Lab</a>|
