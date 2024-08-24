@@ -6,9 +6,8 @@
   <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white" />
 </a>
 <a href="https://muyiwafadare.tech/" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-4A90E2?" />
+  <img src="https://img.shields.io/badge/-Portfolio-4A90E2?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
-
 
 I am a cybersecurity professional with 3+ years of experience in monitoring, detecting, and responding to cybersecurity threats and incidents. I am experienced in using SIEM tools, such as Splunk, IBM QRadar, etc, conducting security assessments and implementing mitigation strategies. I am also experienced in threat analysis, intrusion detection systems, and incident response protocols.
 
