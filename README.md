@@ -2,6 +2,9 @@
 ## Cybersecurity Professional & Cloud Security Engineering Enthusiast
 
 <a href="https://www.linkedin.com/in/muyiwa-fadare/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@mxyiwa" target="_blank">
+  <img src="https://img.shields.io/badge/-Read%20on%20Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white" />
+</a>
 
 I am a cybersecurity professional with 3+ years of experience in monitoring, detecting, and responding to cybersecurity threats and incidents. I am experienced in using SIEM tools, such as Splunk, IBM QRadar, etc, conducting security assessments and implementing mitigation strategies. I am also experienced in threat analysis, intrusion detection systems, and incident response protocols.
 
