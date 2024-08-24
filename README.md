@@ -19,7 +19,6 @@ My goal is to be able to develop my knowledge and skills that will enable me to 
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### SIEM
 <div>
