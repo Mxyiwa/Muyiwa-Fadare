@@ -1,5 +1,5 @@
 # Hello, I'm Muyiwa Fadare!
-## Cybersecurity Professional
+## Cybersecurity Professional & Cloud Security Engineering Enthusiast
 
 <a href="https://www.linkedin.com/in/muyiwa-fadare/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
