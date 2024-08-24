@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/-Portfolio-4A90E2?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 
-I am a cybersecurity professional with 3+ years of experience in monitoring, detecting, and responding to cybersecurity threats and incidents. I am experienced in using SIEM tools, such as Splunk, IBM QRadar, etc, conducting security assessments and implementing mitigation strategies. I am also experienced in threat analysis, intrusion detection systems, and incident response protocols.
+I am a cybersecurity professional with over 3+ years of experience working in various SOC environments, utilising a wide range of SIEM tools to monitor network traffic, security alerts, and logs to identify potential security incidents or anomalies. With a background in Software development, I have utilised my foundation in programming languages, problem-solving, and logical thinking, which enables me to provide coding expertise regarding a solid understanding of system architecture and vulnerabilities by debugging, testing, and analysing code to identify potential security risks.
 
 ## Objective
 My goal is to be able to develop my knowledge and skills that will enable me to be very competent and effective at securing my organisations' security infrastructure as well as make me a valuable member and contributor to my team, and ultimately my organisation.
