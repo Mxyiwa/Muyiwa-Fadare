@@ -12,7 +12,7 @@
 I am a cybersecurity professional with over 3+ years of experience working in various SOC environments, utilising a wide range of SIEM tools to monitor network traffic, security alerts, and logs to identify potential security incidents or anomalies.
 
 ## Objective
-My goal is to be able to develop my knowledge and skills that will enable me to be very competent and effective at securing my organisations' security infrastructure as well as make me a valuable member and contributor to my team, and ultimately my organisation.
+My goal is to be able to develop my knowledge and skills that will enable me to be more competent and effective at securing my organisations' security infrastructure as well as make me a valuable member and contributor to my team, and ultimately my organisation.
 
 ## Skills
 
