@@ -11,11 +11,9 @@ My goal is to be able to develop my knowledge and skills that will enable me to 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://medium.com/@mxyiwa/azure-sentinel-siem-lab-to-map-live-cyber-attacks-d74c2426d59b">Sentinel SIEM Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Malware Analysis and Detection | <a href="https://medium.com/@mxyiwa/escaperoom-blue-team-challenge-analyzing-pcaps-with-wireshark-648d6b57a0c4">Detection Lab</a>|
+| Vulnerability Management | <a href="https://medium.com/@mxyiwa/nessus-essentials-vulnerability-management-lab-55a80d26185a">Vulnerability Managementy Lab</a>|
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
