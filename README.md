@@ -27,7 +27,7 @@ My goal is to be able to develop my knowledge and skills that will enable me to 
     <img src="https://img.shields.io/badge/-IBM%20QRadar-052FAD?&style=for-the-badge&logo=IBM&logoColor=white" />
 </div>
 
-### Network Traffic Analysis / Firewalls
+### Network Traffic Analysis / Firewalls / Intrusion Detection and Prevention Systems (IDPS)
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
@@ -36,7 +36,7 @@ My goal is to be able to develop my knowledge and skills that will enable me to 
     <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Palo%20Alto-0070F2?&style=for-the-badge&logo=Palo%20Alto%20Networks&logoColor=white" />
     <img src="https://img.shields.io/badge/-Fortinet-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
-
+    <img src="https://img.shields.io/badge/-Snort-FB0023?&style=for-the-badge&logo=Snort&logoColor=white" />
 </div>
 
 ### Malware Analysis / Reverse Engineering
@@ -50,11 +50,6 @@ My goal is to be able to develop my knowledge and skills that will enable me to 
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
    <img src="https://img.shields.io/badge/-CrowdStrike%20Falcon-E00E00?&style=for-the-badge&logo=CrowdStrike&logoColor=white" />
     <img src="https://img.shields.io/badge/-McAfee-C12027?&style=for-the-badge&logo=McAfee&logoColor=white" />
-</div>
-
-### Intrusion Detection and Prevention Systems (IDPS)
-<div>
-    <img src="https://img.shields.io/badge/-Snort-FB0023?&style=for-the-badge&logo=Snort&logoColor=white" />
 </div>
 
 ### Vulnerability Management
