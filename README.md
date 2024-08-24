@@ -1,9 +1,7 @@
 # Hello, I'm Muyiwa
 <a href="https://www.linkedin.com/in/muyiwa-fadare/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a cybersecurity professional with 3+ years of experience in monitoring, detecting, and responding to cybersecurity threats and incidents. I am experienced in using SIEM tools, such as Splunk, IBM QRadar, etc, conducting security assessments and implementing mitigation strategies. I have a strong knowledge of threat analysis, intrusion detection systems, and incident response protocols.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
