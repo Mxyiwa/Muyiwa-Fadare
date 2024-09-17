@@ -1,5 +1,5 @@
 # Hello, I'm Muyiwa Fadare!
-## IT/Cybersecurity Professional & Cloud Security Engineering Enthusiast
+## IT / Cybersecurity Professional & Cloud Security Engineering Enthusiast
 
 <a href="https://www.linkedin.com/in/muyiwa-fadare/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@mxyiwa" target="_blank">
@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/-Portfolio-4A90E2?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 
-I am an IT/cybersecurity professional with over 3+ years of experience working in various SOC environments, utilising a wide range of SIEM tools to monitor network traffic, security alerts, and logs to identify potential security incidents or anomalies.
+I am an IT / Cybersecurity professional with over 3+ years of experience working in various SOC environments, utilising a wide range of SIEM tools to monitor network traffic, security alerts, and logs to identify potential security incidents or anomalies.
 
 ## Objective
 My goal is to be able to develop my knowledge and skills that will enable me to be more competent and effective at securing my organisations' security infrastructure as well as make me a valuable member and contributor to my team, and ultimately my organisation.
