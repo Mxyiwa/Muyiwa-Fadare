@@ -96,7 +96,8 @@ My goal is to be able to develop my knowledge and skills that will enable me to 
 ### Cybersecurity Projects
 
 -  [EscapeRoom-Blue-Team-Challenge-Analyzing-PCAPs-with-Wireshark](https://github.com/Mxyiwa/EscapeRoom-Blue-Team-Challenge-Analyzing-PCAPs-with-Wireshark)
--  [Azure Sentinel SIEM Lab to Map Live Cyber Attacks](https://github.com/Mxyiwa/SIEM-AzureSentinelLab)
+-  [Azure Sentinel SIEM Lab: Mapping Live Cyber Attacks on World Map](https://github.com/Mxyiwa/Azure-Sentinel-SIEM-Lab-Mapping-Live-Cyber-Attacks-on-World-Map)
+-  [Active Directory Corporate Network Home Lab](https://github.com/Mxyiwa/How-to-Setup-an-Active-Directory-Corporate-Network-Home-Lab)
 - [Vulnerability Management Lab with Nessus Essentials](https://github.com/Mxyiwa/Nessus-Essentials-Vulnerability-Management-of-a-Windows-11-VM)
 
 ### Cloud Engineering Projects
